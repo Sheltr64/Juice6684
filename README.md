@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Hey I'm Jaden, a Cyber Security major at Iowa State Uni**
+Things I'm interested in:
+- Linux
+- Minecraft
+- Pop music
+- Enjoying good stories
+
+If you want to talk to me, you can contact me via my school email (jadenliu@iastate.ed) or my work email (jadenliu2006@proton.me)
