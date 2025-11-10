@@ -11,3 +11,7 @@ h1 {
 p {
     max-width: 600px;
 }
+img {
+    max-width: 10%;
+    height: auto;
+}
