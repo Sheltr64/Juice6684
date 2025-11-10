@@ -1,6 +1,6 @@
 body {
     font-size: 2em;
-    background-image: url(/images/Flag_of_Guatemala.svg);
+    /* background-image: url(/images/Flag_of_Guatemala.svg); */
     font-family: sans-serif;
     margin: 2rem;
     line-height: 1.5;
@@ -12,6 +12,11 @@ p {
     max-width: 600px;
 }
 img {
-    max-width: 10%;
+    max-width: 50%;
+    height: auto;
+}
+
+.large {
+    max-width: 80%;
     height: auto;
 }
